@@ -60,5 +60,5 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- GitHub [Rahul E](https://{github.com/rahulemathi})
-- Twitter [Rahul](https://{twitter.com/rahule097})
+- GitHub [Rahul E](https://github.com/rahulemathi)
+- Twitter [Rahul](https://twitter.com/rahule097)
